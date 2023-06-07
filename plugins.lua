@@ -58,7 +58,7 @@ local plugins = {
       "hrsh7th/cmp-vsnip",
       "delphinus/cmp-ctags",
       "hrsh7th/cmp-nvim-lsp-document-symbol",
-      "hrsh7th/cmp-copilot",
+      -- "hrsh7th/cmp-copilot",
       "ray-x/cmp-treesitter",
       "hrsh7th/cmp-nvim-lsp-signature-help",
       { "jcdickinson/codeium.nvim", config = true },
